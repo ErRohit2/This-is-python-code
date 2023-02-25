@@ -231,7 +231,7 @@ t1.color("#fcf803")
 t1.write("Radhe Krishna....", font=("Script",40, "bold"))
 t1.color("#fc030b")
 t1.write("Made By : - Rohit Kumar Sahu ",font=("Script" ,15,"bold"))
-t1.hideturtle()
+t1.hideturtle(12)
 
 turtle.done()
 #done
